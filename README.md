@@ -2,4 +2,4 @@
 
 This is my first project
 
-The progam outputs "hello world" in the command window
+The progam outputs "hello world" in a web browser using HTML and CSS
